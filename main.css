@@ -1,1 +1,11 @@
-/* TODO */
+.card {
+  margin-left: 50px;
+  margin-right: 80px;
+  float: left;
+  font-size: 12px !important;
+}
+
+#Simon h1 {
+    color: red;
+    font-size: 16pt;
+}
