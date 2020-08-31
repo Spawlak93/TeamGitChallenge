@@ -4,3 +4,8 @@
   float: left;
   font-size: 12px !important;
 }
+
+#Simon h1 {
+    color: red;
+    font-size: 16pt;
+}
